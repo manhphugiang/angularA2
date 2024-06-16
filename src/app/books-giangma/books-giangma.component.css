@@ -1,0 +1,16 @@
+table{
+    text-align: center;
+}
+th{
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+text-decoration: solid;
+font-weight: bold;
+
+}
+td{
+    text-align: center;
+    font-weight: bold;
+
+}

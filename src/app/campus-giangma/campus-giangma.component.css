@@ -1,0 +1,13 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color:aquamarine;
+    text-decoration:italic;
+  }
+span{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+
+}
